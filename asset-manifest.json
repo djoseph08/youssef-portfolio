@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/youssef-portfolio/static/css/main.4432da09.css",
+    "main.js": "/youssef-portfolio/static/js/main.e4858b60.js",
+    "static/js/453.75680737.chunk.js": "/youssef-portfolio/static/js/453.75680737.chunk.js",
+    "static/media/ph.jpg": "/youssef-portfolio/static/media/ph.9f63fdc75e66ac1c69c9.jpg",
+    "static/media/travel.jpg": "/youssef-portfolio/static/media/travel.085c8e6a98a1c35ad0e9.jpg",
+    "static/media/XO.png": "/youssef-portfolio/static/media/XO.284502fef9be899bc0e3.png",
+    "static/media/popbg1_04.jpg": "/youssef-portfolio/static/media/popbg1_04.ca29159028362d72bee7.jpg",
+    "static/media/clothina.jpg": "/youssef-portfolio/static/media/clothina.3291480b3a651f93037e.jpg",
+    "static/media/chatbot.png": "/youssef-portfolio/static/media/chatbot.41b93f82eee16698a584.png",
+    "static/media/weather.png": "/youssef-portfolio/static/media/weather.6af6a4c48a9cdaf68764.png",
+    "static/media/jo2.png": "/youssef-portfolio/static/media/jo2.bc587a8879aba9d1e385.png",
+    "static/media/grinch.png": "/youssef-portfolio/static/media/grinch.b81d07822188fe1fce72.png",
+    "static/media/djotalk.png": "/youssef-portfolio/static/media/djotalk.d55ae7eb1a53a4eaed69.png",
+    "static/media/snake.png": "/youssef-portfolio/static/media/snake.a9a80e259d19f37eb8b6.png",
+    "static/media/bts.png": "/youssef-portfolio/static/media/bts.c13251b80936ada65352.png",
+    "static/media/Mixolydian Titling Rg It.otf": "/youssef-portfolio/static/media/Mixolydian Titling Rg It.413490752646843457d1.otf",
+    "static/media/thm.svg": "/youssef-portfolio/static/media/thm.caad47bbd816b549c20001507c8fc711.svg",
+    "static/media/cool-background.svg": "/youssef-portfolio/static/media/cool-background.4d8282546206d4616e11.svg",
+    "index.html": "/youssef-portfolio/index.html",
+    "main.4432da09.css.map": "/youssef-portfolio/static/css/main.4432da09.css.map",
+    "main.e4858b60.js.map": "/youssef-portfolio/static/js/main.e4858b60.js.map",
+    "453.75680737.chunk.js.map": "/youssef-portfolio/static/js/453.75680737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4432da09.css",
+    "static/js/main.e4858b60.js"
+  ]
+}
