@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/youssef-portfolio/static/css/main.4432da09.css",
-    "main.js": "/youssef-portfolio/static/js/main.e4858b60.js",
+    "main.css": "/youssef-portfolio/static/css/main.e7649b1c.css",
+    "main.js": "/youssef-portfolio/static/js/main.396182d7.js",
     "static/js/453.75680737.chunk.js": "/youssef-portfolio/static/js/453.75680737.chunk.js",
     "static/media/ph.jpg": "/youssef-portfolio/static/media/ph.9f63fdc75e66ac1c69c9.jpg",
     "static/media/travel.jpg": "/youssef-portfolio/static/media/travel.085c8e6a98a1c35ad0e9.jpg",
@@ -19,12 +19,12 @@
     "static/media/thm.svg": "/youssef-portfolio/static/media/thm.caad47bbd816b549c20001507c8fc711.svg",
     "static/media/cool-background.svg": "/youssef-portfolio/static/media/cool-background.4d8282546206d4616e11.svg",
     "index.html": "/youssef-portfolio/index.html",
-    "main.4432da09.css.map": "/youssef-portfolio/static/css/main.4432da09.css.map",
-    "main.e4858b60.js.map": "/youssef-portfolio/static/js/main.e4858b60.js.map",
+    "main.e7649b1c.css.map": "/youssef-portfolio/static/css/main.e7649b1c.css.map",
+    "main.396182d7.js.map": "/youssef-portfolio/static/js/main.396182d7.js.map",
     "453.75680737.chunk.js.map": "/youssef-portfolio/static/js/453.75680737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4432da09.css",
-    "static/js/main.e4858b60.js"
+    "static/css/main.e7649b1c.css",
+    "static/js/main.396182d7.js"
   ]
 }
