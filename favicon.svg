@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Youssef y. logo">
+  <rect width="128" height="128" fill="#f3f1eb"/>
+  <g transform="translate(8 2)">
+    <path d="M18 17H36L51 52L67 17H85L48 102H29L43 70Z" fill="#20211e"/>
+    <circle cx="88" cy="68" r="10" fill="#ff642d"/>
+  </g>
+</svg>
