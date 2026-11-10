@@ -1,0 +1,32 @@
+.work-experience{margin-top:72px;padding-top:38px;border-top:1px solid #4a4c40}
+.work-experience .work-experience-label{display:block;color:#b9bcac;font-size:9px;letter-spacing:1.8px;margin-bottom:22px}
+.work-experience .work-experience-card{min-width:0;padding:31px 34px 25px;border:1px solid #4a4c40;border-radius:14px;background:#2b2d24}
+.work-experience .work-experience-header{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-bottom:25px;border-bottom:1px solid #4a4c40}
+.work-experience .work-experience-employer{display:flex;align-items:center;flex-wrap:wrap;gap:12px 21px;min-width:0}
+.work-experience .work-experience-company{font-family:Manrope,sans-serif;font-size:20px;font-weight:650;letter-spacing:-.45px;color:#f3f1eb}
+.work-experience .work-experience-location{display:inline-flex;align-items:center;gap:7px;font-size:11px;line-height:1.6;color:#bcc0ae}
+.work-experience .work-experience-location svg{color:#ff9a6d;flex-shrink:0}
+.work-experience .work-experience-period{display:inline-flex;align-items:center;flex-shrink:0;border:1px solid #71604a;border-radius:999px;padding:8px 13px;background:#40392a;color:#ffd3b9;font-size:10px;letter-spacing:.65px;line-height:1.3}
+.work-experience .work-experience-intro{display:grid;grid-template-columns:1fr 1fr;gap:35px;align-items:start;margin:28px 0 31px}
+.work-experience .work-experience-intro h3{font-family:Manrope,sans-serif;font-size:clamp(25px,2.7vw,35px);font-weight:550;letter-spacing:-1.15px;line-height:1.25;text-wrap:balance;margin:0;color:#f3f1eb;overflow-wrap:anywhere}
+.work-experience .work-experience-intro>p{font-size:12px;line-height:1.85;color:#bcc0ae;margin:0}
+.work-experience .work-experience-responsibilities{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:27px 35px;padding-top:29px;border-top:1px solid #4a4c40}
+.work-experience .work-experience-area{display:flex;align-items:flex-start;gap:14px;min-width:0}
+.work-experience .work-experience-icon{display:grid;place-items:center;flex:0 0 36px;width:36px;height:36px;border:1px solid #66513b;border-radius:10px;background:#3c3527;color:#ff9a6d}
+.work-experience .work-experience-area h4{font-size:13px;font-weight:550;line-height:1.55;letter-spacing:-.1px;margin:0 0 7px;color:#f3f1eb;overflow-wrap:anywhere}
+.work-experience .work-experience-area p{font-size:11px;line-height:1.85;color:#bcc0ae;margin:0;overflow-wrap:anywhere}
+.work-experience .work-experience-footer{display:flex;justify-content:flex-end;margin-top:30px;padding-top:21px;border-top:1px solid #4a4c40}
+.work-experience .work-experience-footer a{display:inline-flex;align-items:center;gap:12px;font-size:11px;font-weight:500;line-height:1.6;color:#ffd3b9}
+.work-experience .work-experience-footer a:hover{color:#fff4e9}
+html[data-theme=dark] .work-experience .work-experience-card{background:#282f22;border-color:#4c5740}
+html[data-theme=dark] .work-experience .work-experience-header,html[data-theme=dark] .work-experience .work-experience-responsibilities,html[data-theme=dark] .work-experience .work-experience-footer{border-color:#4c5740}
+html[lang=ar] .work-experience .work-experience-intro h3,html[lang=ar] .work-experience .work-experience-area h4{font-family:Tahoma,Arial,sans-serif;letter-spacing:0;line-height:1.6}
+html[lang=ar] .work-experience .work-experience-label{letter-spacing:0}
+html[lang=ar] .work-experience .work-experience-intro>p,html[lang=ar] .work-experience .work-experience-area p{line-height:2}
+html[lang=ar] .work-experience .work-experience-footer a svg{transform:scaleX(-1)}
+@media(max-width:900px){.work-experience .work-experience-intro{grid-template-columns:1fr;gap:18px}.work-experience .work-experience-intro h3{max-width:580px}.work-experience .work-experience-intro>p{max-width:670px}.work-experience .work-experience-responsibilities{gap:26px}}
+@media(max-width:600px){.work-experience{margin-top:44px;padding-top:29px}.work-experience .work-experience-label{font-size:8px;letter-spacing:1.3px;margin-bottom:18px}.work-experience .work-experience-card{padding:22px 20px 20px;border-radius:12px}.work-experience .work-experience-header{align-items:flex-start;gap:12px;padding-bottom:20px}.work-experience .work-experience-employer{flex-direction:column;align-items:flex-start;gap:7px}.work-experience .work-experience-company{font-size:18px}.work-experience .work-experience-period{font-size:9px;padding:7px 9px;letter-spacing:.3px}.work-experience .work-experience-intro{margin:22px 0 24px;gap:15px}.work-experience .work-experience-intro h3{font-size:27px;letter-spacing:-.8px}.work-experience .work-experience-intro>p{font-size:11px}.work-experience .work-experience-responsibilities{grid-template-columns:1fr;gap:23px;padding-top:24px}.work-experience .work-experience-area{gap:12px}.work-experience .work-experience-area h4{font-size:13px}.work-experience .work-experience-area p{font-size:11px}.work-experience .work-experience-footer{justify-content:flex-start;margin-top:25px;padding-top:19px}.work-experience .work-experience-footer a{font-size:10px}}
+
+.work-experience .work-experience-brand{display:flex;align-items:center;gap:18px;min-width:0}
+.work-experience .work-experience-logo{flex:0 0 62px;width:62px;height:62px;object-fit:contain;padding:7px;border:1px solid #ded9cc;border-radius:10px;background:#f4f1e9}
+@media(max-width:600px){.work-experience .work-experience-brand{gap:12px}.work-experience .work-experience-logo{flex-basis:52px;width:52px;height:52px;padding:5px;border-radius:8px}}

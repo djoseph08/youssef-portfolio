@@ -1,0 +1,586 @@
+{
+  "A catalogue for Best Store’s car accessories and essentials. A focused shopping experience with vehicle collections, English and Arabic browsing, and a helpful store guide.": [
+    "Un catalogue d’accessoires et d’équipements automobiles pour Best Store. Une expérience de découverte organisée par véhicule, avec navigation en anglais et en arabe et un guide pour accompagner les visiteurs.",
+    "كتالوج لإكسسوارات السيارات ومستلزماتها لمتجر Best Store. تجربة تصفح منظمة حسب السيارة، باللغتين العربية والإنجليزية، مع دليل لمساعدة الزوار."
+  ],
+  "An end-to-end gym management application I designed and developed with React and a database hosted locally on the gym’s PC. NexusFit brings member registration, membership plans, subscription periods, payment records, activity pricing, and operational oversight into a single administration workspace. Its dashboard combines membership and revenue insights with a smart calculator, helping staff work through day-to-day management tasks in one place. The interface also organizes gym hours, trainers, workouts, and nutrition. I built the complete application, from the user interface and business logic to local data persistence.": [
+    "Une application complète de gestion de salle de sport que j’ai conçue et développée avec React et une base de données hébergée sur le PC du club. NexusFit réunit les inscriptions, les abonnements, les périodes de souscription, les paiements, les tarifs des activités et le suivi opérationnel dans un même espace d’administration. Le tableau de bord associe les indicateurs d’adhésion et de recettes à une calculatrice intelligente pour faciliter les tâches quotidiennes. L’interface organise aussi les horaires, les coachs, les entraînements et la nutrition. J’ai réalisé l’ensemble de l’application : interface, logique métier et persistance locale des données.",
+    "تطبيق متكامل لإدارة الأندية الرياضية صممته وطوّرته باستخدام React وقاعدة بيانات تعمل محلياً على حاسوب النادي. يجمع NexusFit تسجيل الأعضاء وخطط الاشتراك وفتراتها وسجلات المدفوعات وتسعير الأنشطة ومتابعة العمليات في مساحة إدارة واحدة. تعرض لوحة التحكم مؤشرات العضوية والإيرادات، وتضم حاسبة ذكية لتسهيل مهام الإدارة اليومية. كما تنظم الواجهة مواعيد النادي والمدربين والتمارين والتغذية. توليت تطوير التطبيق كاملاً، من واجهة المستخدم ومنطق العمل إلى حفظ البيانات محلياً."
+  ],
+  "A React weather app that brings current conditions and forecasts into a simple, responsive interface. Search a location and explore the weather at a glance.": [
+    "Une application météo React qui présente les conditions actuelles et les prévisions dans une interface simple et adaptative. Recherchez un lieu et consultez la météo en un coup d’œil.",
+    "تطبيق طقس باستخدام React يعرض الأحوال الحالية والتوقعات بواجهة بسيطة ومتجاوبة. ابحث عن موقع واطلع على الطقس بلمحة سريعة."
+  ],
+  "A handcrafted chatbot with a responsive messaging interface and custom response logic. Built around JavaScript interactions rather than an AI service.": [
+    "Un chatbot conçu à la main, avec une interface de messagerie adaptative et une logique de réponse personnalisée. Les interactions reposent sur JavaScript, sans service d’intelligence artificielle.",
+    "روبوت محادثة بواجهة رسائل متجاوبة ومنطق استجابة مخصص. يعتمد على تفاعلات JavaScript المبرمجة يدوياً دون خدمة ذكاء اصطناعي."
+  ],
+  "Hands-on cybersecurity practice through CTF challenges and TryHackMe labs: exploring vulnerabilities, investigating systems, and developing practical penetration testing skills.": [
+    "Une pratique concrète de la cybersécurité à travers les challenges CTF et les laboratoires TryHackMe : exploration de vulnérabilités, analyse de systèmes et développement des compétences en tests d’intrusion.",
+    "ممارسة عملية للأمن السيبراني عبر تحديات CTF ومختبرات TryHackMe، تشمل استكشاف الثغرات وفحص الأنظمة وتطوير مهارات اختبار الاختراق."
+  ],
+  "A fashion storefront concept built with React and Sass, featuring a custom identity, dynamic navigation, and a visual approach to product discovery.": [
+    "Un concept de boutique de mode réalisé avec React et Sass, avec une identité personnalisée, une navigation dynamique et une approche visuelle de la découverte des produits.",
+    "تصور لمتجر أزياء باستخدام React وSass، بهوية مخصصة وتنقل ديناميكي وطريقة بصرية لاستكشاف المنتجات."
+  ],
+  "My final BTP IT project, inspired by my travel agency internship. A travel website with destination discovery, packages, and a PHP/MySQL reservation system.": [
+    "Mon projet de fin de BTP informatique, inspiré de mon stage en agence de voyage. Un site de découverte de destinations et de séjours, avec un système de réservation PHP/MySQL.",
+    "مشروع تخرجي في BTP الإعلامية، مستوحى من تدريبي في وكالة سفر. موقع لاستكشاف الوجهات والعروض مع نظام حجز باستخدام PHP وMySQL."
+  ],
+  "A real-time chat application using Flask and Flask-SocketIO for instant message exchange, with a clean, responsive conversation interface.": [
+    "Une messagerie en temps réel utilisant Flask et Flask-SocketIO pour l’échange instantané de messages, dans une interface claire et adaptative.",
+    "تطبيق محادثة فورية باستخدام Flask وFlask-SocketIO لتبادل الرسائل مباشرة، بواجهة واضحة ومتجاوبة."
+  ],
+  "A collection of logos, posters, and album-cover concepts created in Photoshop. An exploration of typography, composition, and expressive visual identities.": [
+    "Une collection de logos, d’affiches et de concepts de pochettes d’albums créés dans Photoshop. Une exploration de la typographie, de la composition et des identités visuelles expressives.",
+    "مجموعة شعارات وملصقات وتصورات لأغلفة ألبومات صممتها باستخدام Photoshop. استكشاف للخطوط والتكوين والهويات البصرية التعبيرية."
+  ],
+  "A browser-based Snake game built with vanilla JavaScript, with responsive directional controls, scoring, and a restart flow.": [
+    "Un jeu Snake pour navigateur réalisé en JavaScript natif, avec commandes directionnelles adaptatives, score et redémarrage.",
+    "لعبة الثعبان للمتصفح باستخدام JavaScript الخالص، مع تحكم اتجاهي متجاوب وتسجيل نقاط وإعادة اللعب."
+  ],
+  "A classic two-player tic-tac-toe game, using JavaScript to handle turns, winning combinations, and game resets.": [
+    "Un jeu de morpion classique à deux joueurs. JavaScript gère les tours, les combinaisons gagnantes et la réinitialisation des parties.",
+    "لعبة إكس أو كلاسيكية للاعبين، تستخدم JavaScript لإدارة الأدوار وحالات الفوز وإعادة اللعب."
+  ],
+  "An early interface study exploring login and sign-up screens. A visual project from my learning journey, focused on form layout and presentation.": [
+    "Une étude d’interface de connexion et d’inscription réalisée au début de mon parcours. Un projet visuel consacré à la mise en page et à la présentation des formulaires.",
+    "دراسة مبكرة لواجهات تسجيل الدخول وإنشاء الحساب، أنجزتها خلال رحلة التعلم، وتركز على تنسيق النماذج وعرضها."
+  ],
+  "A series of automotive product campaigns I designed for Best Store’s social media pages. Created in Photoshop, the collection combines product presentation, automotive imagery, bilingual Arabic/English typography, and a consistent visual identity across vehicle ranges. These examples feature the Land Rover Defender, ROX Adamas, Zeekr 9X, and Leopard 5. I developed the compositions and campaign visuals to present accessories clearly while giving each vehicle its own visual story.": [
+    "Une série de campagnes automobiles que j’ai conçues pour les réseaux sociaux de Best Store. Réalisée dans Photoshop, la collection associe présentation des produits, images automobiles, typographie bilingue arabe/anglais et identité visuelle cohérente entre les gammes. Ces exemples mettent en scène le Land Rover Defender, le ROX Adamas, le Zeekr 9X et le Leopard 5. J’ai créé les compositions et les visuels pour présenter clairement les accessoires, tout en donnant à chaque véhicule son propre univers.",
+    "سلسلة حملات لمنتجات السيارات صممتها لصفحات Best Store على وسائل التواصل الاجتماعي. أنجزتها باستخدام Photoshop، وجمعت فيها بين عرض المنتجات وصور السيارات والخطوط العربية والإنجليزية وهوية بصرية متناسقة لمختلف الطرازات. تضم هذه الأمثلة Land Rover Defender وROX Adamas وZeekr 9X وLeopard 5. طورت التكوينات والمواد البصرية لعرض الإكسسوارات بوضوح، مع منح كل سيارة طابعاً بصرياً خاصاً."
+  ],
+  "Best Store — Social Campaigns": [
+    "Best Store — Campagnes sociales",
+    "Best Store — حملات التواصل الاجتماعي"
+  ],
+  "Automotive stories. A distinctive visual identity.": [
+    "L’automobile en images. Une identité qui se distingue.",
+    "حكايات سيارات. وهوية بصرية مميزة."
+  ],
+  "COMMERCIAL SOCIAL MEDIA DESIGN": [
+    "DESIGN COMMERCIAL POUR RÉSEAUX SOCIAUX",
+    "تصميم تجاري لوسائل التواصل الاجتماعي"
+  ],
+  "Art direction": [
+    "Direction artistique",
+    "الإخراج الفني"
+  ],
+  "Bilingual design": [
+    "Design bilingue",
+    "تصميم ثنائي اللغة"
+  ],
+  "Social media": [
+    "Réseaux sociaux",
+    "وسائل التواصل الاجتماعي"
+  ],
+  "I’m an IT specialist, full-stack web developer, and penetration tester who enjoys both sides of the screen: creating intuitive digital experiences and understanding the systems beneath them.": [
+    "Spécialiste IT, développeur web full-stack et testeur d’intrusion, j’aime créer des expériences numériques intuitives autant que comprendre les systèmes qui les font fonctionner.",
+    "أنا متخصص في تقنية المعلومات، ومطور ويب متكامل، ومختبر اختراق. أستمتع ببناء تجارب رقمية سهلة الاستخدام وفهم الأنظمة التي تقف وراءها."
+  ],
+  "Design with personality.": [
+    "Designer avec du caractère.",
+    "تصميم بشخصية مميزة."
+  ],
+  "Photoshop, bilingual campaign design, and product stories for social media.": [
+    "Photoshop, campagnes bilingues et histoires de produits pour les réseaux sociaux.",
+    "Photoshop وحملات ثنائية اللغة وقصص بصرية للمنتجات على وسائل التواصل الاجتماعي."
+  ],
+  "Web App": [
+    "Développeur",
+    "مطور تطبيقات"
+  ],
+  "Developer": [
+    "d’applications web",
+    "الويب"
+  ],
+  "& Pentester": [
+    "& Pentester",
+    "ومختبر اختراق"
+  ],
+  "Creative developer.": [
+    "Développeur créatif.",
+    "مطور مبدع."
+  ],
+  "Applications": [
+    "Applications",
+    "التطبيقات"
+  ],
+  "Design & creative work": [
+    "Design & créations",
+    "التصميم والأعمال الإبداعية"
+  ],
+  "Security & pentesting": [
+    "Sécurité & tests d’intrusion",
+    "الأمن واختبار الاختراق"
+  ],
+  "Web applications, business systems, and interactive experiments.": [
+    "Applications web, systèmes de gestion et expériences interactives.",
+    "تطبيقات ويب وأنظمة إدارة وتجارب تفاعلية."
+  ],
+  "Social campaigns, visual identities, and interface studies.": [
+    "Campagnes sociales, identités visuelles et études d’interface.",
+    "حملات التواصل الاجتماعي والهويات البصرية ودراسات الواجهات."
+  ],
+  "Hands-on research, ethical testing, and CTF challenges.": [
+    "Recherche pratique, tests éthiques et challenges CTF.",
+    "بحث عملي واختبارات أخلاقية وتحديات CTF."
+  ],
+  "View all applications": [
+    "Voir toutes les applications",
+    "عرض جميع التطبيقات"
+  ],
+  "Show selected applications": [
+    "Afficher la sélection d’applications",
+    "عرض التطبيقات المختارة"
+  ],
+  "Switch to light mode": [
+    "Passer au thème clair",
+    "التبديل إلى الوضع الفاتح"
+  ],
+  "Switch to dark mode": [
+    "Passer au thème sombre",
+    "التبديل إلى الوضع الداكن"
+  ],
+  "BEST STORE / AUTOMOTIVE CATALOGUE": [
+    "BEST STORE / CATALOGUE AUTOMOBILE",
+    "BEST STORE / كتالوج إكسسوارات السيارات"
+  ],
+  "A clear route from vehicle to accessory.": [
+    "Du véhicule à l’accessoire, un parcours clair.",
+    "مسار واضح من السيارة إلى الإكسسوار."
+  ],
+  "A digital catalogue built around how customers actually shop: choose a vehicle, discover relevant accessories, and find the next step without losing the brand’s character.": [
+    "Un catalogue numérique pensé pour les habitudes des clients : choisir un véhicule, découvrir les accessoires adaptés et passer à l’étape suivante, dans le respect de l’identité de la marque.",
+    "كتالوج رقمي مصمم وفق طريقة تسوق العملاء: اختيار السيارة، واكتشاف الإكسسوارات المناسبة، والوصول إلى الخطوة التالية مع الحفاظ على هوية العلامة."
+  ],
+  "Web development & interface design": [
+    "Développement web et design d’interface",
+    "تطوير الويب وتصميم الواجهات"
+  ],
+  "Automotive catalogue, bilingual browsing, store guide": [
+    "Catalogue automobile, navigation bilingue et guide du magasin",
+    "كتالوج سيارات وتصفح ثنائي اللغة ودليل المتجر"
+  ],
+  "Live web application": [
+    "Application web en ligne",
+    "تطبيق ويب متاح مباشرة"
+  ],
+  "The brief": [
+    "Le besoin",
+    "متطلبات المشروع"
+  ],
+  "Present a broad car-accessory collection in a way that feels organized, premium, and easy to explore. The experience needed to connect product discovery with the store’s real-world services.": [
+    "Présenter une large collection d’accessoires automobiles dans une expérience organisée, soignée et facile à explorer, tout en reliant la découverte des produits aux services du magasin.",
+    "عرض مجموعة واسعة من إكسسوارات السيارات بطريقة منظمة وراقية وسهلة الاستكشاف، مع ربط اكتشاف المنتجات بخدمات المتجر الفعلية."
+  ],
+  "The experience": [
+    "L’expérience",
+    "تجربة الاستخدام"
+  ],
+  "Vehicle-based collections provide a natural starting point. Product imagery and clear visual hierarchy keep the catalogue approachable, while Arabic and English browsing make the content accessible to both audiences.": [
+    "Les collections par véhicule offrent un point de départ naturel. Les visuels produits et une hiérarchie claire facilitent la découverte du catalogue, tandis que la navigation en arabe et en anglais s’adresse aux deux publics.",
+    "توفر المجموعات المصنفة حسب السيارة نقطة بداية طبيعية. وتسهل صور المنتجات والتسلسل البصري الواضح تصفح الكتالوج، بينما يتيح التصفح بالعربية والإنجليزية الوصول إلى الجمهورين."
+  ],
+  "The details": [
+    "Les détails",
+    "تفاصيل التنفيذ"
+  ],
+  "The interface brings together the home page, car collections, product discovery, and a store guide. Warm gold accents and a dark visual language create a consistent Best Store identity throughout the journey.": [
+    "L’interface réunit la page d’accueil, les collections par véhicule, la découverte des produits et le guide du magasin. Des accents dorés chaleureux et une palette sombre assurent la cohérence de l’identité Best Store.",
+    "تجمع الواجهة الصفحة الرئيسية ومجموعات السيارات واستكشاف المنتجات ودليل المتجر. وتمنح اللمسات الذهبية الدافئة والتصميم الداكن Best Store هوية متناسقة طوال التجربة."
+  ],
+  "Vehicle-based discovery": [
+    "Découverte par véhicule",
+    "اكتشاف المنتجات حسب السيارة"
+  ],
+  "Browse collections organized around the customer’s car.": [
+    "Parcourir des collections organisées selon le véhicule du client.",
+    "تصفح مجموعات منظمة وفق سيارة العميل."
+  ],
+  "Arabic & English": [
+    "Arabe et anglais",
+    "العربية والإنجليزية"
+  ],
+  "A bilingual experience for the store’s audiences.": [
+    "Une expérience bilingue pour les publics du magasin.",
+    "تجربة ثنائية اللغة لجمهور المتجر."
+  ],
+  "Store guide": [
+    "Guide du magasin",
+    "دليل المتجر"
+  ],
+  "A dedicated entry point for finding accessories or making another request.": [
+    "Un accès dédié pour trouver un accessoire ou formuler une autre demande.",
+    "مدخل مخصص للعثور على الإكسسوارات أو تقديم طلب آخر."
+  ],
+  "Responsive presentation": [
+    "Présentation adaptative",
+    "عرض متجاوب"
+  ],
+  "Clear layouts and product previews across screen sizes.": [
+    "Des mises en page claires et des aperçus produits adaptés aux différents écrans.",
+    "تنسيقات واضحة ومعاينات للمنتجات تناسب أحجام الشاشات المختلفة."
+  ],
+  "NEXUSFIT / GYM CRM & ERP": [
+    "NEXUSFIT / CRM ET ERP SPORTIF",
+    "NEXUSFIT / نظام CRM وERP للأندية الرياضية"
+  ],
+  "The gym’s daily operations, brought together.": [
+    "Le quotidien de la salle, dans un seul espace.",
+    "عمليات النادي اليومية في مكان واحد."
+  ],
+  "An end-to-end management system I designed and developed for a gym, combining a React interface, business logic, and a locally hosted database on the gym’s PC.": [
+    "Un système complet de gestion que j’ai conçu et développé pour une salle de sport, associant une interface React, la logique métier et une base de données hébergée sur le PC du club.",
+    "نظام إدارة متكامل صممته وطوّرته لنادٍ رياضي، يجمع واجهة React ومنطق العمل وقاعدة بيانات مستضافة محلياً على حاسوب النادي."
+  ],
+  "Full-stack development & interface design": [
+    "Développement full-stack et design d’interface",
+    "تطوير متكامل وتصميم الواجهات"
+  ],
+  "CRM, memberships, payments, operational dashboard": [
+    "CRM, abonnements, paiements et tableau de bord opérationnel",
+    "إدارة علاقات العملاء والاشتراكات والمدفوعات ولوحة متابعة العمليات"
+  ],
+  "Locally hosted application": [
+    "Application hébergée localement",
+    "تطبيق يعمل محلياً"
+  ],
+  "Give gym staff one coherent workspace for member administration, subscription periods, payment records, activity pricing, and operational visibility.": [
+    "Offrir au personnel un espace cohérent pour gérer les adhérents, les périodes d’abonnement, les paiements et les tarifs des activités, avec une vue claire sur les opérations.",
+    "توفير مساحة عمل موحدة لفريق النادي لإدارة الأعضاء وفترات الاشتراك وسجلات المدفوعات وتسعير الأنشطة ومتابعة العمليات بوضوح."
+  ],
+  "My contribution": [
+    "Ma contribution",
+    "مساهمتي في المشروع"
+  ],
+  "I built the complete application: the React interface, administration workflows, business logic, and local data persistence. The system is intended to run on the gym’s own PC with its database hosted locally.": [
+    "J’ai réalisé l’ensemble de l’application : interface React, processus d’administration, logique métier et persistance locale des données. Le système est conçu pour fonctionner sur le PC du club, avec sa base de données hébergée localement.",
+    "طورت التطبيق كاملاً: واجهة React وإجراءات الإدارة ومنطق العمل وحفظ البيانات محلياً. وصُمم النظام ليعمل على حاسوب النادي مع قاعدة بيانات مستضافة محلياً."
+  ],
+  "The dashboard brings membership and revenue information into view alongside a smart calculator. Dedicated sections organize member registration, activity plans, payments, gym hours, trainers, workouts, and nutrition.": [
+    "Le tableau de bord présente les informations sur les adhésions et les recettes, ainsi qu’une calculatrice intelligente. Des sections dédiées organisent les inscriptions, les formules d’activités, les paiements, les horaires, les coachs, les entraînements et la nutrition.",
+    "تعرض لوحة التحكم بيانات العضوية والإيرادات إلى جانب حاسبة ذكية. وتنظم الأقسام المخصصة تسجيل الأعضاء وخطط الأنشطة والمدفوعات ومواعيد النادي والمدربين والتمارين والتغذية."
+  ],
+  "Operations dashboard": [
+    "Tableau de bord opérationnel",
+    "لوحة متابعة العمليات"
+  ],
+  "Membership and revenue views, subscription status, and a smart calculator.": [
+    "Vues sur les adhésions et les recettes, suivi des abonnements et calculatrice intelligente.",
+    "عرض بيانات العضوية والإيرادات وحالة الاشتراكات وحاسبة ذكية."
+  ],
+  "Member administration": [
+    "Gestion des adhérents",
+    "إدارة الأعضاء"
+  ],
+  "Registration forms, member profiles, membership periods, and subscription tiers.": [
+    "Formulaires d’inscription, fiches adhérents, périodes d’adhésion et niveaux d’abonnement.",
+    "نماذج التسجيل وملفات الأعضاء وفترات العضوية ومستويات الاشتراك."
+  ],
+  "Payments & reporting": [
+    "Paiements et rapports",
+    "المدفوعات والتقارير"
+  ],
+  "A revenue ledger with transaction history, plan periods, payment methods, search, and CSV export.": [
+    "Un registre des recettes avec historique des transactions, périodes des formules, moyens de paiement, recherche et export CSV.",
+    "سجل إيرادات يشمل تاريخ المعاملات وفترات الاشتراك وطرق الدفع والبحث والتصدير بصيغة CSV."
+  ],
+  "Activity plans": [
+    "Formules d’activités",
+    "خطط الأنشطة"
+  ],
+  "Activity pricing organized by daily, weekly, monthly, and longer subscription periods.": [
+    "Des tarifs d’activités organisés par formules journalières, hebdomadaires, mensuelles et de plus longue durée.",
+    "تسعير للأنشطة وفق فترات اشتراك يومية وأسبوعية وشهرية وأطول مدة."
+  ],
+  "Local database": [
+    "Base de données locale",
+    "قاعدة بيانات محلية"
+  ],
+  "Data persistence hosted on the gym’s PC.": [
+    "Persistance des données hébergée sur le PC du club.",
+    "حفظ البيانات على حاسوب النادي."
+  ],
+  "One administration workspace": [
+    "Un seul espace d’administration",
+    "مساحة إدارة موحدة"
+  ],
+  "A consistent interface across gym hours, trainers, workouts, nutrition, and settings.": [
+    "Une interface cohérente pour les horaires, les coachs, les entraînements, la nutrition et les paramètres.",
+    "واجهة متناسقة لمواعيد النادي والمدربين والتمارين والتغذية والإعدادات."
+  ],
+  "Project overview": [
+    "Vue d’ensemble du projet",
+    "نظرة عامة على المشروع"
+  ],
+  "My role": [
+    "Mon rôle",
+    "دوري"
+  ],
+  "Project scope": [
+    "Périmètre du projet",
+    "نطاق المشروع"
+  ],
+  "Delivery": [
+    "Livraison",
+    "التسليم"
+  ],
+  "Explore the project": [
+    "Découvrir le projet",
+    "استكشف المشروع"
+  ],
+  "View screenshots": [
+    "Voir les captures",
+    "عرض لقطات الشاشة"
+  ],
+  "Open live app": [
+    "Ouvrir l’application en ligne",
+    "افتح التطبيق مباشرة"
+  ],
+  "Explore case study": [
+    "Découvrir l’étude de cas",
+    "استكشف دراسة المشروع"
+  ],
+  "Application preview": [
+    "Aperçu de l’application",
+    "معاينة التطبيق"
+  ],
+  "Product walkthrough": [
+    "Parcours de l’application",
+    "جولة في التطبيق"
+  ],
+  "Project capabilities": [
+    "Fonctionnalités du projet",
+    "إمكانات المشروع"
+  ],
+  "Project preview": [
+    "Aperçu du projet",
+    "معاينة المشروع"
+  ],
+  "Administrator login": [
+    "Connexion administrateur",
+    "تسجيل دخول المسؤول"
+  ],
+  "Payment ledger": [
+    "Registre des paiements",
+    "سجل المدفوعات"
+  ],
+  "Member registration": [
+    "Inscription des adhérents",
+    "تسجيل الأعضاء"
+  ],
+  "Home & product discovery": [
+    "Accueil et découverte des produits",
+    "الصفحة الرئيسية واستكشاف المنتجات"
+  ],
+  "Vehicle collections": [
+    "Collections par véhicule",
+    "مجموعات السيارات"
+  ],
+  "FULL-STACK SYSTEM": [
+    "SYSTÈME FULL-STACK",
+    "نظام متكامل"
+  ],
+  "LIVE WEB APPLICATION": [
+    "APPLICATION WEB EN LIGNE",
+    "تطبيق ويب مباشر"
+  ],
+  "NEXUSFIT / CRM & ERP": [
+    "NEXUSFIT / CRM & ERP",
+    "NEXUSFIT / نظام CRM وERP"
+  ],
+  "BEST STORE / DIGITAL CATALOGUE": [
+    "BEST STORE / CATALOGUE NUMÉRIQUE",
+    "BEST STORE / كتالوج رقمي"
+  ],
+  "One system.": [
+    "Un seul système.",
+    "نظام واحد."
+  ],
+  "The whole gym.": [
+    "Toute la salle.",
+    "للنادي بأكمله."
+  ],
+  "The next upgrade.": [
+    "Le prochain équipement.",
+    "تجهيزاتك القادمة."
+  ],
+  "Made discoverable.": [
+    "À portée de main.",
+    "أسهل في الاكتشاف."
+  ],
+  "A complete management system for memberships, payments, and everyday gym operations.": [
+    "Un système complet pour les adhésions, les paiements et la gestion quotidienne du club.",
+    "نظام متكامل للعضويات والمدفوعات والعمليات اليومية للنادي."
+  ],
+  "A vehicle-focused catalogue connecting customers with car accessories and store services.": [
+    "Un catalogue organisé par véhicule pour découvrir les accessoires et les services du magasin.",
+    "كتالوج حسب السيارة يربط العملاء بالإكسسوارات وخدمات المتجر."
+  ],
+  "REACT / LOCAL DATABASE / FULL-STACK": [
+    "REACT / BASE LOCALE / FULL-STACK",
+    "REACT / قاعدة بيانات محلية / تطوير متكامل"
+  ],
+  "VEHICLE COLLECTIONS / AR + EN": [
+    "COLLECTIONS AUTOMOBILES / AR + EN",
+    "مجموعات حسب السيارة / العربية والإنجليزية"
+  ],
+  "LOCALLY HOSTED / FULL-STACK": [
+    "HÉBERGEMENT LOCAL / FULL-STACK",
+    "استضافة محلية / تطوير متكامل"
+  ],
+  "LIVE / READY TO EXPLORE": [
+    "EN LIGNE / À DÉCOUVRIR",
+    "متاح مباشرة / جاهز للاستكشاف"
+  ],
+  "Built for the gym’s own PC.": [
+    "Conçu pour le PC du club.",
+    "مصمم للعمل على حاسوب النادي."
+  ],
+  "Explore the catalogue in action.": [
+    "Découvrez le catalogue en action.",
+    "استكشف الكتالوج مباشرة."
+  ],
+  "Project screenshots": [
+    "Captures du projet",
+    "صور المشروع"
+  ],
+  "Screenshot": [
+    "Capture",
+    "صورة"
+  ],
+  "of": [
+    "sur",
+    "من"
+  ],
+  "Exit expanded view": [
+    "Quitter la vue agrandie",
+    "إنهاء العرض الموسع"
+  ],
+  "Expand screenshot": [
+    "Agrandir la capture",
+    "تكبير الصورة"
+  ],
+  "Previous screenshot": [
+    "Capture précédente",
+    "الصورة السابقة"
+  ],
+  "Next screenshot": [
+    "Capture suivante",
+    "الصورة التالية"
+  ],
+  "Choose a screenshot": [
+    "Choisir une capture",
+    "اختر صورة"
+  ],
+  "View screenshot": [
+    "Voir la capture",
+    "عرض الصورة"
+  ],
+  "Interface presentation": [
+    "Présentation de l’interface",
+    "عرض توضيحي للواجهة"
+  ],
+  "View project preview": [
+    "Voir l’aperçu du projet",
+    "عرض معاينة المشروع"
+  ],
+  "Screenshot presentation": [
+    "Présentation de l’écran",
+    "عرض لقطة الشاشة"
+  ],
+  "Presentation copy based on a supplied screenshot.": [
+    "Copie de présentation réalisée à partir de la capture fournie.",
+    "نسخة للعرض أُعدّت انطلاقاً من لقطة الشاشة المقدمة."
+  ],
+  "BASED IN QATAR · FROM TUNISIA ↗": [
+    "BASÉ AU QATAR · ORIGINAIRE DE TUNISIE ↗",
+    "مقيم في قطر · من تونس ↗"
+  ],
+  "QATAR / TUNISIAN ROOTS": [
+    "QATAR / RACINES TUNISIENNES",
+    "قطر / جذور تونسية"
+  ],
+  "I’m from Tunisia and currently based in Qatar.": [
+    "Je suis originaire de Tunisie et je vis actuellement au Qatar.",
+    "أنا من تونس وأقيم حالياً في قطر."
+  ],
+  "LEARNING / QUALIFICATIONS": [
+    "FORMATION / QUALIFICATIONS",
+    "التكوين / المؤهلات"
+  ],
+  "Certifications & training": [
+    "Certifications & formations",
+    "الشهادات والتكوين"
+  ],
+  "Formal learning behind hands-on work.": [
+    "Des formations qui soutiennent la pratique.",
+    "تكوين يدعم الخبرة العملية."
+  ],
+  "CYBERSECURITY CERTIFICATION": [
+    "CERTIFICATION EN CYBERSÉCURITÉ",
+    "شهادة في الأمن السيبراني"
+  ],
+  "Core cybersecurity principles, network security, threats, vulnerabilities, and risk management.": [
+    "Principes de cybersécurité, sécurité réseau, menaces, vulnérabilités et gestion des risques.",
+    "مبادئ الأمن السيبراني وأمن الشبكات والتهديدات والثغرات وإدارة المخاطر."
+  ],
+  "Cybersecurity foundations": [
+    "Fondamentaux de la cybersécurité",
+    "أسس الأمن السيبراني"
+  ],
+  "GOMYCODE · Tunisia": [
+    "GOMYCODE · Tunisie",
+    "GOMYCODE · تونس"
+  ],
+  "WEB APPLICATION CERTIFICATIONS": [
+    "CERTIFICATIONS EN APPLICATIONS WEB",
+    "شهادات في تطبيقات الويب"
+  ],
+  "Web application development": [
+    "Développement d’applications web",
+    "تطوير تطبيقات الويب"
+  ],
+  "Web application development certifications completed with GOMYCODE in Tunisia.": [
+    "Certifications en développement d’applications web obtenues auprès de GOMYCODE en Tunisie.",
+    "شهادات في تطوير تطبيقات الويب حصلت عليها من GOMYCODE في تونس."
+  ],
+  "Web development & application building": [
+    "Développement web & création d’applications",
+    "تطوير الويب وبناء التطبيقات"
+  ],
+  "Fresh finds & store guide": [
+    "Nouveautés & guide du magasin",
+    "منتجات جديدة ودليل المتجر"
+  ],
+  "Everyday essentials & fragrances": [
+    "Essentiels du quotidien & parfums",
+    "مستلزمات يومية وعطور"
+  ],
+  "Operating Systems": [
+    "Systèmes d’exploitation",
+    "أنظمة التشغيل"
+  ],
+  "Interfaces, applications, and the technologies behind them.": [
+    "Interfaces, applications et technologies qui les font fonctionner.",
+    "واجهات وتطبيقات والتقنيات التي تقف وراءها."
+  ],
+  "Web testing, reconnaissance, network analysis, and security labs.": [
+    "Tests web, reconnaissance, analyse réseau et laboratoires de sécurité.",
+    "اختبارات الويب والاستطلاع وتحليل الشبكات والمختبرات الأمنية."
+  ],
+  "The systems I use across development and security work.": [
+    "Les systèmes que j’utilise en développement et en sécurité.",
+    "الأنظمة التي أستخدمها في التطوير والعمل الأمني."
+  ],
+  "Version control, collaboration, and visual design.": [
+    "Gestion de versions, collaboration et création visuelle.",
+    "إدارة الإصدارات والتعاون والتصميم البصري."
+  ],
+  "BASED IN QATAR · FROM TUNISIA": [
+    "BASÉ AU QATAR · ORIGINAIRE DE TUNISIE",
+    "مقيم في قطر · من تونس"
+  ]
+}

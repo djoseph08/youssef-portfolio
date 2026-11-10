@@ -1,0 +1,60 @@
+{
+  "nexusfit": [
+    {
+      "src": "./images/screenshots/nexusfit/nexusfit-login.png",
+      "label": "Administrator login",
+      "caption": "Presentation copy based on a supplied screenshot.",
+      "provenance": "image-tool presentation copy"
+    },
+    {
+      "src": "./images/screenshots/nexusfit/nexusfit-dashboard.png",
+      "label": "Operations dashboard",
+      "caption": "Presentation copy based on a supplied screenshot.",
+      "provenance": "image-tool presentation copy"
+    },
+    {
+      "src": "./images/screenshots/nexusfit/nexusfit-activities.png",
+      "label": "Activity plans",
+      "caption": "Presentation copy based on a supplied screenshot.",
+      "provenance": "image-tool presentation copy"
+    },
+    {
+      "src": "./images/screenshots/nexusfit/nexusfit-payments.png",
+      "label": "Payment ledger",
+      "caption": "Presentation copy based on a supplied screenshot.",
+      "provenance": "image-tool presentation copy"
+    },
+    {
+      "src": "./images/screenshots/nexusfit/nexusfit-registration.png",
+      "label": "Member registration",
+      "caption": "Presentation copy based on a supplied screenshot.",
+      "provenance": "image-tool presentation copy"
+    }
+  ],
+  "best-store": [
+    {
+      "src": "./images/screenshots/best-store/best-store-home.png",
+      "label": "Home & product discovery",
+      "caption": "Presentation copy based on a supplied screenshot.",
+      "provenance": "image-tool presentation copy"
+    },
+    {
+      "src": "./images/screenshots/best-store/best-store-guide.png",
+      "label": "Fresh finds & store guide",
+      "caption": "Presentation copy based on a supplied screenshot.",
+      "provenance": "image-tool presentation copy"
+    },
+    {
+      "src": "./images/screenshots/best-store/best-store-essentials.png",
+      "label": "Everyday essentials & fragrances",
+      "caption": "Presentation copy based on a supplied screenshot.",
+      "provenance": "image-tool presentation copy"
+    },
+    {
+      "src": "./images/screenshots/best-store/best-store-vehicles.png",
+      "label": "Vehicle collections",
+      "caption": "Presentation copy based on a supplied screenshot.",
+      "provenance": "image-tool presentation copy"
+    }
+  ]
+}

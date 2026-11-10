@@ -1,0 +1,60 @@
+{
+  "roles": [
+    {
+      "id": "artours",
+      "employer": "Artours Consulting & Events",
+      "location": "Tunis, Tunisia",
+      "period": "2021–2022",
+      "title": "Web Developer & Travel Operations Assistant",
+      "summary": "Combined website development, reservation administration, and customer email support for a travel agency in Tunis.",
+      "logo": "./images/experience/artours.png",
+      "initials": "AC",
+      "responsibilities": [
+        [
+          "Website development",
+          "Designed and built the agency’s website to present its travel services and help customers explore its offers."
+        ],
+        [
+          "Reservations & booking records",
+          "Recorded customer reservations in the agency’s system and kept booking information organized."
+        ],
+        [
+          "Customer email support",
+          "Responded to customer emails, answered travel enquiries, and followed up on reservation requests."
+        ]
+      ]
+    },
+    {
+      "id": "franprix",
+      "employer": "Franprix",
+      "location": "Paris, France",
+      "period": "2019–2020",
+      "title": "Retail Manager & Cashier",
+      "summary": "Managed supermarket operations and checkout service at Franprix in Paris, combining customer support with product photography and digital product administration.",
+      "logo": "./images/experience/franprix.webp",
+      "responsibilities": [
+        [
+          "Store operations & checkout",
+          "Managed day-to-day store operations, assisted customers, and handled checkout transactions through the point-of-sale system."
+        ],
+        [
+          "Product photography & image preparation",
+          "Photographed new products and prepared clean images with white backgrounds for their digital records."
+        ],
+        [
+          "Product catalogue & POS administration",
+          "Created new item records and entered products into the store and cashier systems so they were ready for sale."
+        ]
+      ]
+    }
+  ],
+  "internship": {
+    "id": "bouygues",
+    "employer": "Bouygues Telecom",
+    "location": "Paris, France",
+    "period": "3 months",
+    "title": "Fibre Optic Technician Intern",
+    "summary": "Gained hands-on experience in fibre-optic technical work during a three-month internship with Bouygues Telecom, building on training completed at Excelforma in Paris.",
+    "logo": "./images/experience/bouygues-telecom.svg"
+  }
+}
